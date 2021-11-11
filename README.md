@@ -122,6 +122,10 @@ def findbest(scaler,g_models):
 ![image](https://user-images.githubusercontent.com/77625823/141355657-d1cae0f3-b37f-445b-b6da-0f689485d454.png)
 
 
+
+**#################################################################################**
+
+
 **California Housing Prices Clustering(PHW 2)**
 
 * Before run this manual, please make sure the install and import following packages.
